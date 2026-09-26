@@ -1,0 +1,8 @@
+python-telegram-bot==21.6
+groq
+python-dotenv
+pandas
+numpy
+fastapi
+uvicorn
+requests
