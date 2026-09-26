@@ -37,4 +37,4 @@ Users can send a question or data-analysis request to the Telegram bot. The bot 
 The goal of this project is to make **data analysis simple and accessible through a Telegram chatbot**, allowing users to ask questions and receive solutions without needing a separate data-analysis application.
 
 ## .gitignore
-It gives you the list which you have to add your api keys and creates virtual enviornment.
+It gives you the list which you have to add your api keys and creates virtual environment of requirements.txt.
